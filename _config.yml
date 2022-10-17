@@ -22,6 +22,7 @@ title: Don's GitHub Pages
 email: donfernandes25@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blogging, Resume, IT related stuff, etc.
+  {{ site.email }}
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cbctech25
