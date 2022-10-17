@@ -4,12 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-** Contact Info **
-Don Fernandes
-3008 Greendale Road
-North Port, FL 34287
-603-371-2149
-donfernandes25@cbctech.net
+## Contact Info ##
+Don Fernandes  
+3008 Greendale Road  
+North Port, FL 34287  
+603-371-2149  
+donfernandes25@cbctech.net  
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
