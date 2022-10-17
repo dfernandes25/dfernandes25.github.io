@@ -20,7 +20,6 @@
 
 title: Don's GitHub Pages
 email: donfernandes25@gmail.com
-mail:  {{ site.email }}
 description: >- # this means to ignore newlines until "baseurl:"
   Blogging, Resume, IT related stuff, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
