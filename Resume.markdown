@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Don Fernandes Resume"
 permalink: /resume/
+---
+
 
 **About Me**
 
