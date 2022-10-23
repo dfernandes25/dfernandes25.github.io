@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Contact Me"
-permalink: /contact/
+title: "Code Repositories"
+permalink: /repos/
 ---
 
 ## Code Repositories ##
