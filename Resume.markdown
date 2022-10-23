@@ -128,7 +128,6 @@ network of Apple retail and corporate clients.
 
 **References**
 
-My references are senior level executives, directors, engineers, etc.
 After opportunities are identified and qualified, references may be
 supplied on request. In the interim, please review my LinkedIn profile
 <https://www.linkedin.com/in/donfernandes/> and company website
