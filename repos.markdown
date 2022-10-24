@@ -6,7 +6,7 @@ permalink: /repos/
 
 ## Code Repositories ##
 
-[PowerShell Scripts](https://github.com/dfernandes25/powershell)
+[PowerShell Scripts](https://github.com/dfernandes25/powershell)  
 [RStudio Scripts](https://github.com/dfernandes25/r)
 
 <!-- 
