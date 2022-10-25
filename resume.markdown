@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 ---
 
-**About**
+**About Don**
 
 Leverage extensive business, technical, and operational expertise to
 achieve strategic company goals by providing technology leadership,
