@@ -1,41 +1,97 @@
----
-layout: page
-title: "Don Fernandes Resume"
-permalink: /resume/
----
-
-
 **About Me**
 
-Leverage extensive business, technical, and operational leadership
-expertise to achieve strategic company goals by providing IT management,
-guidance, and mentorship to technical departments including network,
+Leverage extensive business, technical, and operational expertise to
+achieve strategic company goals by providing technology leadership,
+management, and mentorship to technical departments including network,
 infra, desktop, helpdesk, and support teams.
 
 Interface at multiple org levels, (C-level, VP, Director, etc.), to
-gather business requirements and subsequently design, provision, and
+enumerate business requirements and subsequently design, provision, and
 support scalable, affordable, and if necessary, complex IT solutions.
 
 A proven track record of meeting or exceeding project requirements while
 working within the boundaries of established budget, policy, and
 procedural guidelines.
 
-Current and/or recent clients retaining my IT services:
+A successful small business owner, (A+ Better Business Bureau rating),
+and respected community leader engaged in a variety of local community
+activities and causes.
 
--   IAC -- A global holding company comprised of category leading
-    businesses including Angi Inc, Care.com, and Dotdash Meredith
+Recent client engagements, (2021-2022):
 
--   IWG -- The world's number one workspace provider operating under a
-    variety of global brands including Regus, Spaces, and The Clubhouse
+-   [IAC](https://www.iac.com/)
 
--   La Jolla Pharmaceutical -- Specializes in the commercialization of
-    innovative therapies that improve outcomes in patients suffering
-    from life-threatening diseases
+    -   Globally scoped endpoint migration from Active Directory to
+        Azure AD
 
--   Breakthrough Greater Boston - Founded by Angela Duckworth, a
-    MacArthur Genius Award winner, BTGB prepares low-income students for
-    college success and building the next generation of urban teachers
-    using a unique Teaching Fellow model
+    -   Global scoped endpoint Microsoft LAPS rollout
+
+    -   Globally scoped endpoint Microsoft Autopilot rollout
+
+    -   Globally scoped endpoint Crowdstrike rollout
+
+    -   Globally scoped VoIP rollout
+
+    -   Microsoft SCCM to MEM/Intune conversion for newly acquired
+        company
+
+    -   Tenant-to-Tenant Microsoft 365 migration from GCC to Commercial
+
+    -   Custom development of automated reporting and analytic tools
+
+-   [IWG](https://www.iwgplc.com/en-gb)
+
+    -   Nationally scoped launch of JAMF management tools for MacOS and
+        iOS devices
+
+    -   Nationally scoped launch of Google Workspace and Datto Backupify
+
+    -   Nationally scoped launch of Meraki Wide-Area-Network
+
+    -   Custom development of automated reporting and analytic tools
+
+-   [La Jolla Pharmaceutical](https://www.lajollapharmaceutical.com/)
+
+    -   Nationally scoped Microsoft MEM/Intune rollout
+
+    -   On-premises to AWS datacenter 'lift and shift' cloud migration
+
+    -   Disaster recovery endpoint and infrastructure rollout
+
+    -   Custom development of automated reporting and analytic tools
+
+-   [Breakthrough Greater Boston](http://breakthroughgreaterboston.org/)
+
+    -   On-premises datacenter design and buildout
+
+    -   Multiple Zoom Room buildouts
+
+    -   End user platform migration from MacOS to Microsoft Windows
+
+    -   Google Workspace MDM management rollout
+
+    -   Investigate and lead multiple digital forensics and incident
+        response cases
+
+    -   Custom development of automated reporting and analytic tools
+
+-   [HSA Insurance](https://hsainsurance.com/Home.aspx)
+
+    -   Design and co-manage next generation call and contact center
+        rollout
+
+    -   Design and develop call center analytics program
+
+    -   Subject matter expert on bids and contracts for state of New
+        Mexico
+
+    -   SD-WAN rollout across 4 sites in MA and RI
+
+**Profiles**
+
+<https://dfernandes25.github.io/>
+
+https://www.linkedin.com/in/donfernandes/
 
 **Employment History**
 
@@ -125,10 +181,3 @@ Design, plan and build, train-the-trainer programs for DEC and Kodak.
 Lead and participate in training tour events encompassing the top 50
 cities nationwide to provide training and certification services to a
 network of Apple retail and corporate clients.
-
-**References**
-
-After opportunities are identified and qualified, references may be
-supplied on request. In the interim, please review my LinkedIn profile
-<https://www.linkedin.com/in/donfernandes/> and company website
-<https://www.cbctech.net>
