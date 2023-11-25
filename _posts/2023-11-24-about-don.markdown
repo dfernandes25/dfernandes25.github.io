@@ -4,11 +4,11 @@ Writing intros is hard, here's my spiel...
  
 CBC Technologies, (aka CBC), was founded on January 1, 2007 to provide commercial and residential clients affordable, reliable computer, printer, and network solutions.
 - Affordable is NOT lowest cost -- if you're shopping for the cheapest service and support, (aka race to the bottom), please keep moving as there is nothing to see here. 
-- Reliability is a balance of:  
+- Reliability is a balance between:  
 -- good  
 -- fast  
--- cheap
--- As the old marketing slogan goes -- pick any two but you can't have all three.
+-- cost  
+General rule of thumb is pick any two, trying to achieve all three is incredibly difficult.  
 
 **My Background**  
 
