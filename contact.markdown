@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-## Contact Info ##
+## Contact Me ##
 Don Fernandes  
 3008 Greendale Road  
 North Port, FL 34287  
