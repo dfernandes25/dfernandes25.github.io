@@ -22,7 +22,7 @@ title: Don Fernandes GitHub Pages
 email: donfernandes25@gmail.com
 author: Don Fernandes
 description: >- # this means to ignore newlines until "baseurl:"
-  Resume, Code Samples, etc. 
+  Blog, Contact Info, Sample Code, Resume, etc. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: cbctech25
