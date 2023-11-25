@@ -1,20 +1,24 @@
 Writing intros is hard, here's my spiel...  
   
-**Mission Statement** 
-I founded CBC Technologies, (aka CBC), on January 1, 2007 to provide commercial and residential clients affordable, reliable computer, printer, and network solutions.  
-- Affordable does NOT mean lowest price -- if you're shopping for cheapest, (aka 'race to the bottom'), please keep moving, nothing to see here  
-- Reliability is a balanced negotiation between three criteria:  
--- good
+**My Mission Statement**  
+ 
+CBC Technologies, (aka CBC), was founded on January 1, 2007 to provide commercial and residential clients affordable, reliable computer, printer, and network solutions.
+- Affordable does NOT mean lowest cost -- if you're shopping for cheap, (aka 'race to the bottom'), please keep moving, nothing to see here  
+- Reliability is a balance of:  
+-- good  
 -- fast  
 -- cheap  
-Pick any two and CBC will deliver. The road to purgatory is littered with the bodies of arrogant project managers who thought they could deliver all three.
+
+As the old marketing slogan goes -- pick any two but you can't have all three.
 
 **My Background**  
-I'm a former US Navy submarine nuclear reactor operator:  
+
+I'm a former US Navy submarine nuclear reactor operator:
 - [USS George C. Marshall, SSBN 654](https://en.wikipedia.org/wiki/USS_George_C._Marshall)  
 - [USS Nathanael Greene, SSBN 634](https://en.wikipedia.org/wiki/USS_Nathanael_Greene)  
+ 
 
-I'm a former high school teacher:
+I'm also a former high school teacher:
 
 
 
