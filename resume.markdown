@@ -12,17 +12,16 @@ North Port, FL 34287
 donfernandes25@gmail.com
 
 **Professional Summary**  
-- Extensive IT industry experience, small business ownership, and community leadership 
-- Experienced design and implementation of scalable, reliable, affordable IT solutions for enterprises and SMB organizations
-- Experienced team builder and manager of customer service and technical support teams
-- IT project management at global, national, and local levels representing a variety of vertical markets 
+Extensive IT industry experience, small business ownership, and community leadership. I have designed and implemented scalable, reliable, affordable IT solutions for enterprises and SMB organizations. 
+I have built and managed customer service and technical support teams. I have successfully managed IT projects for global, national, and local organizations across a variety of vertical markets. 
 
 **Profiles**  
 [Github Pages](https://dfernandes25.github.io/)  
 [LinkedIn](https://www.linkedin.com/in/donfernandes/)
 
 **Professional History**  
-[CBC Technologies LLC](https://cbctech.net) *2007-Present Owner*    
+[CBC Technologies LLC](https://cbctech.net)  
+*2007-Present Owner*  
 Provide IT consulting, service, and support to multiple verticals markets including
 healthcare, higher education, non-profits, insurance, pharmaceutical, and service industries. 
 Areas of expertise include cloud workflows and migrations, Managed IT services, endpoint management, 
