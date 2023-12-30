@@ -49,4 +49,4 @@ routines to collect, organize, analyze, and build reports for delivery to our ad
 [Apple, Inc.](https://www.apple.com/)  
 *1989-1997*  
 As a **Senior Technical Services Trainer** I provided technical support and training services to Fortune 500 companies including DEC, Raytheon, Kodak, and ComputerLand; 
-as well as higher education institutions including Harvard and Dartmouth College. I was personally responsible for the design, build, and implemention of 3rd party 'Train-The-Trainer programs for DEC and Eastman-Kodak. I also served as lead trainer for Apple's nationawide training and certification events to authorized retail and corporate partners.
+as well as higher education institutions including Harvard and Dartmouth College. I was personally responsible for the design, build, and implemention of 3rd party 'Train-The-Trainer' programs for DEC and Eastman-Kodak. I also served as lead trainer for Apple's nationawide training and certification events to authorized retail and corporate partners.
