@@ -34,7 +34,7 @@ hospital and healthcare organizations.
 *2001-2005*  
 **Senior Enterprise IT Solutions Consultant** providing design and implementation solutions to Higher Ed and Healthcare organizations including
 Harvard, Yale, MIT, MIT Lincoln Labs, Boston University, UMass, UNH, UConn, Boston College, 
-and [Partners Healthcare](https://www.massgeneralbrigham.org/en organization).
+and the [Partners Healthcare](https://www.massgeneralbrigham.org/en) organization.
 
 [VST Technologies, Inc.](https://pitchbook.com/profiles/company/100041-13#overview)  
 *1999-2000*  
