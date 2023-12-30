@@ -20,8 +20,8 @@ I have built and managed customer service and technical support teams. I have su
 [LinkedIn](https://www.linkedin.com/in/donfernandes/)
 
 **Professional History**  
-[CBC Technologies LLC](https://cbctech.net)  
-*2007-Present Owner*  
+[CBC Technologies LLC](https://cbctech.net) **Owner**  
+*2007-Present*  
 Provide IT consulting, service, and support to multiple verticals markets including
 healthcare, higher education, non-profits, insurance, pharmaceutical, and service industries. 
 Areas of expertise include cloud workflows and migrations, Managed IT services, endpoint management, 
