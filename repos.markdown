@@ -4,7 +4,7 @@ title: "Sample Code"
 permalink: /repos/
 ---
 
-## Sample Code ##
+## Pointers to my GitHub repositories ##
 
 [PowerShell](https://github.com/dfernandes25/powershell)  
 [R/RStudio](https://github.com/dfernandes25/r)  
