@@ -22,7 +22,7 @@ I have built and managed customer service and technical support teams. I have su
 **Professional History**  
 [CBC Technologies LLC](https://cbctech.net)  
 *2007-Present*  
-**Company founder and manager.** CBC provides IT consulting and technical support to healthcare, higher education, non-profit, insurance, pharmaceutical, and service industries. 
+**Company Founder and Manager.** CBC provides IT consulting and technical support to healthcare, higher education, non-profit, insurance, pharmaceutical, and service industries. 
 Areas of expertise include cloud workflows, cloud eMail and data migrations, Managed IT services, endpoint management, help desk operations, security, LAN/WAN networks, and cross platform operating systems. 
 
 [JJ Wild Inc](https://pitchbook.com/profiles/company/42282-01#overview)  
