@@ -1,4 +1,3 @@
-<h1>{{ page.food }}</h1>
 
 Writing intros is hard, here's my spiel...  
   
