@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Code Repositories"
+title: "Sample Code"
 permalink: /repos/
 ---
 
-## Code Repositories ##
+## Sample Code ##
 
 [PowerShell](https://github.com/dfernandes25/powershell)  
 [R/RStudio](https://github.com/dfernandes25/r)  
