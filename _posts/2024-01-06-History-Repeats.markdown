@@ -1,5 +1,5 @@
-**AI Seems Like Déjà Vu All Over Again**  
-*(With apologies to Yogi Berra)*  
+**AI -- It's Déjà Vu All Over Again**  
+*(Apologies to Yogi Berra)*  
 
 I’m noticing an interesting trend among IT people, reminding me of a similar fad when "cloud" was the shiny new tech toy. Sober minded, grounded, smart people I've known for decades now lay claim to AI/AGI/GPT "expertise" as evidenced by their LinkedIn and blog posts, email signatures, tweets, etc.
 
