@@ -36,8 +36,9 @@
 *Microsoft called, they found a security issue and need to remote login to my machine!*
 `No offense, but for 99.99% of you, Microsoft will never call...ever...really...they won't.`  
 
-*Your estimate said it would cost $xx to fix and it cost a dollar more.*
+*Your estimate said it would cost $xx to fix and it was a dollar more.*  
 `That's why we call it an estimate.`  
+
 
 
 
