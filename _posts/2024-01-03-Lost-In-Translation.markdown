@@ -13,19 +13,19 @@
 `If it was easy, you would have figured it out`  
 
 *I have nothing important on the hard drive, just replace it*  
-`Any user who thinks there is nothing important on their hard drive -- has something important on their hard drive`  
+`Any user with nothing important on their hard drive -- has something important on their drive`  
 
 *This is an emergency*  
-`Your problem is not my emergency`  
+`Your problem does not define our emergency`  
 
 *I have nothing worth stealing on this computer*  
 `You are sooooo lucky we didn't crossover to the dark side`  
 
 *I backup my computer every night*  
-`When was the last time you tested a restore of the backup`  
+`When was the last time you tested a backup restore`  
 
 *Why won't you setup my computer to automatically login without a password*  
-`We call this protecting you from yourself`
+`We call this "protecting you from yourself"`
 
 
 
