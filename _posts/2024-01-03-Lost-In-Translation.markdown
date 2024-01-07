@@ -13,7 +13,7 @@
 `If it was easy, you would have figured it out`  
 
 *I have nothing important on the hard drive, just replace it*  
-`You have picures, videos, documents, downloads, and desktop files which we will save...aka protecting you from yourself`  
+`Any user who thinks there is nothing important on their hard drive -- has something important on their hard drive`  
 
 *This is an emergency*  
 `Your problem is not my emergency`  
@@ -22,7 +22,12 @@
 `You are sooooo lucky we didn't crossover to the dark side`  
 
 *I backup my computer every night*  
-`When was the last time you tested a restore of the backup`
+`When was the last time you tested a restore of the backup`  
+
+*Why won't you setup my computer to automatically login without a password*  
+`We call this protecting you from yourself`
+
+
 
 
 
