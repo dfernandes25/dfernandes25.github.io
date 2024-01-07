@@ -34,7 +34,12 @@
 `Design without verbage lacks a clear message.`  
 
 *We have a few minor changes, shouldn't take long.*  
-`Let us know when you submit the change order.`  
+`We'll review the change order as soon as you submit it.`  
+
+*Microsoft called, they found a security issue and need to remote login to my machine!*
+`No offense, but for 99.99% of you, Microsoft will never call...ever...really...they won't.`  
+
+
 
 
 
