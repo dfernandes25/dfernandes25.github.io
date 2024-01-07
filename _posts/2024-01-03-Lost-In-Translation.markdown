@@ -13,7 +13,16 @@
 `If it was easy, you would have figured it out`  
 
 *I have nothing important on the hard drive, just replace it*  
-`You have picures, videos, documents, downloads, and desktop files which we will save...this is called protecting you from yourself`
+`You have picures, videos, documents, downloads, and desktop files which we will save...aka protecting you from yourself`  
+
+*This is an emergency*  
+`Your problem is not my emergency`  
+
+*I have nothing worth stealing on this computer*  
+`You are sooooo lucky we didn't crossover to the dark side`  
+
+*I backup my computer every night*  
+`When was the last time you tested a restore of the backup`
 
 
 
