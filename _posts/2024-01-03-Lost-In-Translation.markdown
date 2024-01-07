@@ -30,14 +30,16 @@
 *Can you make my website pop?*  
 `Define "pop."`  
 
-*I'll send you a draft of my website design, you just need to fill in the verbage.*
-`Design without verbage lacks a clear message.`  
-
 *We have a few minor changes, shouldn't take long.*  
 `We'll review the change order as soon as you submit it.`  
 
 *Microsoft called, they found a security issue and need to remote login to my machine!*
 `No offense, but for 99.99% of you, Microsoft will never call...ever...really...they won't.`  
+
+*Your estimate said it would cost $xx to fix and it cost a dollar more.*
+`That's why we call it an estimate.`  
+
+
 
 
 
