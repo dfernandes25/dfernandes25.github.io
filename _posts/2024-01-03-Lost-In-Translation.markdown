@@ -1,4 +1,9 @@
-**What a Client Question Translates to in the Real World**  
+**Client Questions and Our Translation**  
 
 *Can you do it for less?*  
-`Sure thing...which part of the project would you like to remove?`
+`Good, Fast, Cheap -- pick two`  
+
+*Can you finish it by tomorrow?*  
+`Good, Fast, Cheap -- pick two`  
+
+
