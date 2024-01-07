@@ -1,9 +1,11 @@
-History repeats itself.
+*AI Seems Like Déjà Vu All Over Again*
 
-Lately, I've noticed an increase in usually cautious, sober-minded, grounded people claiming expertise in AI, AGI, and various versions of 'GPT' (in their emails, blogs, LinkedIn feeds, etc.).
+I’m noticing an interesting trend among IT people, reminding me of a similar fad when "cloud" was the shiny new tech toy. Sober minded, grounded, smart people I've known for decades now lay claim to AI/AGI/GPT "expertise" as evidenced by their LinkedIn and blog posts, email signatures, tweets, etc.
 
-Maybe I'm just an old IT guy stuck in the past, but it took me many years of education, hands-on training, and real-world experience to become proficient in designing and implementing enterprise-class systems.
+Maybe I'm just an old IT guy stuck in the past, but I'm pretty sure it took me years of education, hands-on training, and real-world experience working with incredibly talented mentors before I considered myself proficient in designing and implementing enterprise-class systems. And even now...I'm very comfortable claiming proficiency, but am very cautious touting myself as an 'expert'.
 
-ChatGPT for the general public was released in November 2022, and I'm struggling to understand the sudden explosion of people claiming AI 'expertise'. It reminds me of the early 'cloudy' days when everyone seemed to suddenly acquire 'cloud' experience. Let's not jump headfirst into launching a revolutionary technology spearheaded by sales, marketing, and inexperienced IT specialists.
+With the November 2022 general release of ChatGPT, a switch has flipped. Suddenly everyone is an AI guru. It reminds me of early cloud computing days, or if your closer to my generation, back to the era of 'paper' Novell CNE's. Let's not repeat our mistake with AI.
 
-"The real problem of humanity is that we have paleolithic emotions, medieval institutions, and god-like technology." Dr. E.O. Wilson
+To use Gartner 'speak', I believe 2022-2023 was the AI 'technology trigger', 2024 sees us reach the 'peak of inflated expectations', soon to be followed by the 'trough of disillusionment.' To paraphrase Dr. E.O. Wilson, "The real problem of humanity is we have paleolithic emotions, medieval institutions, and god-like technology." 
+
+My advice to all the newfound AI experts, take a step back, true expertise in any technology domain isn't built overnight. It requires dedication, education, real-world experience, and a healthy dose of skepticism. Don't let history repeat itself.
