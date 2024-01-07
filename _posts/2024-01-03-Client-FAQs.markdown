@@ -10,7 +10,7 @@
 `If I had a nickel for every "5 minute" fix...`  
 
 *This is something easy, I just can't figure it out.*  
-`Almost by definition...if it was easy, you would have figured it out. See the previous 5 minutes to fix answer.`  
+`Almost by definition...if it was easy, you would have figured it out.`  
 
 *I have nothing important on the hard drive, just replace it.*  
 `A user with nothing important on their drive -- has something important on the drive.`  
