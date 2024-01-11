@@ -1,4 +1,4 @@
-#### Google Workspace Migration ####  
+#### **Google Workspace Migration** ####  
 Migration of legacy DNS, website, documents, and email to a new GWS tenant
 for a Port Charlotte, FL based organization with $140M of assets.  
 
