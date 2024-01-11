@@ -37,6 +37,7 @@ multi-region US based offices for a multi-national hybrid workspace provider.
 - Rearchitect and implement a Google Workspace solution for email and document services
 - Rearchitect and implement a Zoom Room solution for online meeting spaces
 - Rearchitect and implement a Meraki multi-point network solution for site-to-site communications
+- Build discovery and compliance reporting solutions for legal proceedings
 
 
 
