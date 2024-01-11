@@ -33,10 +33,10 @@ multi-national, (17 countries), online platform specializing in providing in-hom
 #### Apple Infrastructure Rebuild and Implementation ####  
 Redesign and rebuild an existing MacOS and iOS infrastruture distributed across
 multi-region US based offices for a multi-national hybrid workspace provider.  
-- Rearchitect and implement a JAMF MDM solution for MacOS and iOS devices
-- Rearchitect and implement a Google Workspace solution for email and document services
-- Rearchitect and implement a Zoom Room solution for online meeting spaces
-- Rearchitect and implement a Meraki multi-point network solution for site-to-site communications
+- Redesign and implement a JAMF MDM solution for MacOS and iOS devices
+- Redesign and implement a Google Workspace solution for email and document services
+- Redesign and implement a Zoom Room solution for online meeting spaces
+- Redesign and implement a Meraki multi-point network solution for site-to-site communications
 - Build discovery and compliance reporting solutions for legal proceedings
 
 
