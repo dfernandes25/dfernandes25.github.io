@@ -1,8 +1,8 @@
 ### Managed Services ###  
 
 #### Prevailing Wisdom - Consulting or Managed Services? ####  
-I'm often asked -- why provide managed services rather than focus only on project consulting.
-The prevailing wisdom among many of my peers, (and there are definitely some truths to their thinking) is  
+I'm often asked -- why provide managed services rather than focus only on project consulting?
+The prevailing wisdom among many of my peers, (and definitely some truths to their thinking) is  
 - Consulting is sexier and cooler than managed services
 - Consulting is more cutting edge than managed services
 - Consulting is more profitable than managed services
@@ -12,10 +12,10 @@ The prevailing wisdom among many of my peers, (and there are definitely some tru
 - Managed services is IT low tech, the equivalent of AAA baseball vs. MLB
 - Managed services is boring and repetitive
 
-I'm not a business expert but for 17+ years CBC has offered clients both consulting and managed services.
-We are blessed, the business provided us the means to raise a family, put two kids through college without student loan hangovers,
-and presented my wife and I the opportunity to relocate without incurring a significant business disruption, (but not zero...more on that later).
-My breakdown on the prevailing wisdom follows with the caveats that your mileage may vary and this is not career advice!
+I'm not a business expert but for 17+ years CBC has offered clients both services.
+We are fortunate, the business provided us the means to raise a family, put our kids through college,
+and presented an opportunity to relocate without incurring significant business disruptions, (not zero...more on that later).
+My breakdown on the prevailing wisdom follows, your mileage will vary and this is not career advice!
 
 #### Consulting is sexier and cooler than Managed Services ####
 No doubt, everyone wants to rep they've done work with Apple, Dell, Microsoft, Google, Amazon, etc.
@@ -26,8 +26,8 @@ As someone who has worked for, or currently provides services to all the above, 
 - Yearly sales conferences at exotic locales with Beyonce headlining? Depends on the numbers!
 
 Make no mistake and have no doubt, at the end of the day    
-- Working for a publicly held company requires one thing, and one thing only--make your number/kpi/quota--every quarter  
-- Consulting for a publicly held company has two requirements, your project is on-time and at/under budget
+- Working for a publicly held company requires one thing only, **make your number/kpi/quota--every quarter**  
+- Consulting for a publicly held company has two requirements, **your project is on-time and at/under budget**
 
 ## In progess, more to follow ##
 
