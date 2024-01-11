@@ -18,4 +18,16 @@ franchise provider catering to sole proprietors specializing in the personal lif
 Migrate patient records from an eClinicalWorks EHR to an AthenaHealth EMR
 for a FL based healthcare practice with 44 regional offices.  
 
+#### Microsoft AzureAD (Purview) Infrastructure Implementation ####  
+Plan, organize, and lead multi-team, multi-project initiatives to migrate on-prem Active Directory and 
+privately hosted applications infrastructure to cloud based Microsoft Azure solutions for a
+multi-national, (17 countries), online platform specializing in providing in-home and in-center family care solutions.  
+- Endpoint migration from Active Directory to AAD for authentication and authorization
+- Endpoint LAPS implementation
+- Endpoint AutoPilot implementation
+- Endpoint Crowdstrike implementation
+- VoIP implementation
+- SCCM to Intune/MEM migration for a GCC subsidiary to Commercial tenant conversion
+- Custom development of automated reporting and analytic tools (PowerShell, PowerBI, Shell, R, etc.)
+
 
