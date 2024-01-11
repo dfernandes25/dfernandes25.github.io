@@ -1,6 +1,6 @@
 #### Google Workspace Migration ####  
 Migration of legacy DNS, website, documents, and email to a new GWS tenant
-for a Port Charlotte, FL based organization with $140M or assets.  
+for a Port Charlotte, FL based organization with $140M of assets.  
 
 #### New Construction IT Infrastructure Buildout ####
 Design, install, configure, and manage a complete IT buildout for a nationally recognized
