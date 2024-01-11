@@ -2,7 +2,7 @@
 Welcome to my GitHub page. It's always a work in progress, please be patient! 
 
 #### Brief Bio ####  
-
+---  
 I'm an experienced IT professional, successful small business owner, and an active member of our community.
 My primary professional interests, expertise, and skillsets are the design, implementation, and support of
 affordable, scalable, reliable IT solutions for SMB and Enterprise organizations. I also possess extensive
