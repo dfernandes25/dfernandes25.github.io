@@ -13,5 +13,5 @@ franchise provider catering to sole proprietors specializing in the personal lif
 - Multi-Gb internet services provisioning and configuration
 
 #### EHR Data Migration ####  
-Migrate patient records from an eClinicalWorks EHR system to an AthenaHealth EMR
-system for a FL based healthcare practice with 35+ regional offices.
+Migrate patient records from eClinicalWorks EHR system to AthenaHealth EMR
+for a FL based healthcare practice with 35+ regional offices.
