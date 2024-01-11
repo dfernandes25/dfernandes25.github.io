@@ -30,4 +30,13 @@ multi-national, (17 countries), online platform specializing in providing in-hom
 - SCCM to Intune/MEM migration for a GCC subsidiary to Commercial tenant conversion
 - Custom build of automated reporting and analytic tools (PowerShell, PowerBI, Shell, R)
 
+#### Apple Infrastructure Rebuild and Implementation ####  
+Redesign and rebuild an existing MacOS and iOS infrastruture distributed across
+multi-region US based offices for a multi-national hybrid workspace provider.  
+- Rearchitect and implement a JAMF MDM solution for MacOS and iOS devices
+- Rearchitect and implement a Google Workspace solution for email and document services
+- Rearchitect and implement a Zoom Room solution for online meeting spaces
+- Rearchitect and implement a Meraki multi-point network solution for site-to-site communications
+
+
 
