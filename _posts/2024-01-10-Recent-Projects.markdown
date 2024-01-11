@@ -36,7 +36,7 @@ multi-region US based offices for a multi-national hybrid workspace provider.
 - Redesign and implement a JAMF MDM solution for MacOS and iOS devices
 - Redesign and implement a Google Workspace solution for email and document services
 - Redesign and implement a Zoom Room solution for online meeting spaces
-- Redesign and implement a Meraki multi-point network solution for site-to-site communications
+- Redesign and implement a Meraki multi-site network solution
 - Build discovery and compliance reporting solutions for legal proceedings
 
 
