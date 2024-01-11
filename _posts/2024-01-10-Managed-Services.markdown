@@ -22,7 +22,7 @@ No doubt, everyone wants to rep they've done work with Apple, Dell, Microsoft, G
 Looks great on the resume, expense account, free lunches, blah, blah, blah.
 As someone who has worked for, or currently provides services to all the above, here's my take.  
 - Do they have cool tech and gadgets? Absolutely!  
-- Super smart Harvard, MIT, CMU, Stanford grads who want to change the world? Maybe!  
+- Super smart Harvard, MIT, CMU, Stanford grads who will change the world? Don't discourage them, I admire the youthful ambition!  
 - Yearly sales conferences at exotic locales with Beyonce headlining? Depends on the numbers!
 
 Make no mistake and have no doubt, at the end of the day    
