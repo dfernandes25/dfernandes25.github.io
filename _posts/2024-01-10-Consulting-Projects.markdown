@@ -1,4 +1,4 @@
-### Recent Client Engagements ###  
+### Recent Consulting Engagements ###  
 
 #### Google Workspace Migration ####  
 Migration of legacy DNS, website, documents, and email to a new GWS tenant
