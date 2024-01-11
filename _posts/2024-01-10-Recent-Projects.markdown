@@ -28,6 +28,6 @@ multi-national, (17 countries), online platform specializing in providing in-hom
 - Endpoint Crowdstrike implementation
 - VoIP implementation
 - SCCM to Intune/MEM migration for a GCC subsidiary to Commercial tenant conversion
-- Custom development of automated reporting and analytic tools (PowerShell, PowerBI, Shell, R, etc.)
+- Custom build of automated reporting and analytic tools (PowerShell, PowerBI, Shell, R)
 
 
